@@ -1,4 +1,4 @@
-# Advance Active Directory Recon and Enumeration (ReadTeam Edition)
+# Advance Active Directory Recon and Enumeration (RedTeam Edition)
 
 A RedTeam member will usually identify misconfigurations or exploit trust relationships which will take him all the way to domain administrator. To achieve this, stealthy and extensive reconnaissance and enumeration are required.
 
