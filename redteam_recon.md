@@ -34,7 +34,7 @@ nmap -sL <Target or Range>
 ```
 
 Also we can run Metasploit's `smb_version` module again the domain
-![Metasploit smb_version module](image.png)
+![Metasploit smb_version module](img/msb_smb_ver.png)
 
 **Leveraging SNMP**
 Metasploit's SNMP scanner attempts to guess the community string, If not acquired already via sniffing
